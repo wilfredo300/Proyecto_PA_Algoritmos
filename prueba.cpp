@@ -36,7 +36,7 @@ int main() {
 
             chrono::steady_clock::time_point begin = chrono::steady_clock::now();
             
-            bubleSort(copia,n);
+            bubleSort(copia,n,comparaciones,intercambios);
                       
             chrono::steady_clock::time_point end = chrono::steady_clock::now();
             

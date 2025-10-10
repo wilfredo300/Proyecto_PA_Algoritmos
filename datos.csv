@@ -1,0 +1,11 @@
+algoritmo,n,patron,repeticiones,tiempo_ns,comparaciones,intercambios,semilla
+Buble Sort,100000,aleatorio,1,23254633000,0,0,0
+Buble Sort,100000,aleatorio,2,19823354000,0,0,0
+Buble Sort,100000,aleatorio,3,19892994000,0,0,0
+Buble Sort,100000,aleatorio,4,20493698000,0,0,0
+Buble Sort,100000,aleatorio,5,19863053000,0,0,0
+Buble Sort,100000,aleatorio,6,24120516000,0,0,0
+Buble Sort,100000,aleatorio,7,20385192000,0,0,0
+Buble Sort,100000,aleatorio,8,20324044000,0,0,0
+Buble Sort,100000,aleatorio,9,21052688000,0,0,0
+Buble Sort,100000,aleatorio,10,20321489000,0,0,0

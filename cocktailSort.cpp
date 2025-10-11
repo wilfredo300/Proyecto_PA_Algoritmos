@@ -84,7 +84,7 @@ int main() {
             }
 
             auto begin = chrono::steady_clock::now();
-            bubleSort(copia, n, comparaciones, intercambios);
+            cocktailSort(copia, n, comparaciones, intercambios);
             auto end = chrono::steady_clock::now();
 
             tiempo = chrono::duration_cast<chrono::nanoseconds>(end - begin).count();

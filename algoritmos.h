@@ -30,6 +30,29 @@ void SelectionSort(int list[], int n) {
         }
     }
  }
+ void cocktailSort(int A[],int n,int &comparaciones,int &intercambios){
+    int izq = 1;
+    int der = n-1;
+    int k = n-1;
+    while(izq<=der){
+        for(int i=der;i>=izq;i--){
+            comparaciones++;
+            if(A[i-1]>A[i]){
+                swap(A[i-1],A[i]);
+                intercambios++;
+                k=i;
+            }
+        }
+        izq=k+1;
+        for(int i=izq;i<=der;i++){
+            if(A[i-1]>A[i]){
+                swap(A[i-1],A[i]);
+                k=i;
+            }
+        }
+        der=k-1;
+    }
+ }
 
 
 #endif

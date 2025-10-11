@@ -1,11 +1,100 @@
 algoritmo,n,patron,repeticiones,tiempo_ns,comparaciones,intercambios,semilla
-Buble Sort,100000,aleatorio,1,23254633000,0,0,0
-Buble Sort,100000,aleatorio,2,19823354000,0,0,0
-Buble Sort,100000,aleatorio,3,19892994000,0,0,0
-Buble Sort,100000,aleatorio,4,20493698000,0,0,0
-Buble Sort,100000,aleatorio,5,19863053000,0,0,0
-Buble Sort,100000,aleatorio,6,24120516000,0,0,0
-Buble Sort,100000,aleatorio,7,20385192000,0,0,0
-Buble Sort,100000,aleatorio,8,20324044000,0,0,0
-Buble Sort,100000,aleatorio,9,21052688000,0,0,0
-Buble Sort,100000,aleatorio,10,20321489000,0,0,0
+Bubble Sort,1000,aleatorio,1,246000,499500,255383,0
+Bubble Sort,1000,aleatorio,2,14462000,499500,255383,0
+Bubble Sort,1000,aleatorio,3,9887000,499500,255383,0
+Bubble Sort,1000,aleatorio,4,6040000,499500,255383,0
+Bubble Sort,1000,aleatorio,5,2627000,499500,255383,0
+Bubble Sort,1000,aleatorio,6,0,499500,255383,0
+Bubble Sort,1000,aleatorio,7,17677000,499500,255383,0
+Bubble Sort,1000,aleatorio,8,999000,499500,255383,0
+Bubble Sort,1000,aleatorio,9,6042000,499500,255383,0
+Bubble Sort,1000,aleatorio,10,0,499500,255383,0
+Bubble Sort,1000,aleatorio,Resumen,5.798e+006,4.3335e+006,6.03455e+006,0,17677000
+Bubble Sort,10000,aleatorio,1,395101000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,2,346846000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,3,382705000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,4,455621000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,5,356957000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,6,414770000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,7,428629000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,8,378691000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,9,409335000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,10,389446000,49995000,25179206,0
+Bubble Sort,10000,aleatorio,Resumen,3.9581e+008,3.92274e+008,3.09995e+007,346846000,455621000
+Bubble Sort,100000,aleatorio,1,47985470000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,2,57707126000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,3,44327899000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,4,42464616000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,5,42741790000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,6,42817668000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,7,43153625000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,8,43197389000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,9,42586675000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,10,43003892000,704982704,-1797005374,0
+Bubble Sort,100000,aleatorio,Resumen,4.49986e+010,4.30788e+010,4.51213e+009,42464616000,57707126000
+Bubble Sort,1000,ordenado creciente,1,0,499500,0,0
+Bubble Sort,1000,ordenado creciente,2,0,499500,0,0
+Bubble Sort,1000,ordenado creciente,3,0,499500,0,0
+Bubble Sort,1000,ordenado creciente,4,8291000,499500,0,0
+Bubble Sort,1000,ordenado creciente,5,0,499500,0,0
+Bubble Sort,1000,ordenado creciente,6,0,499500,0,0
+Bubble Sort,1000,ordenado creciente,7,0,499500,0,0
+Bubble Sort,1000,ordenado creciente,8,979000,499500,0,0
+Bubble Sort,1000,ordenado creciente,9,2421000,499500,0,0
+Bubble Sort,1000,ordenado creciente,10,0,499500,0,0
+Bubble Sort,1000,ordenado creciente,Resumen,1.1691e+006,0,2.48782e+006,0,8291000
+Bubble Sort,10000,ordenado creciente,1,172496000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,2,141194000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,3,139510000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,4,145907000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,5,140693000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,6,158199000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,7,193269000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,8,123023000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,9,141838000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,10,159156000,49995000,0,0
+Bubble Sort,10000,ordenado creciente,Resumen,1.51528e+008,1.43872e+008,1.89507e+007,123023000,193269000
+Bubble Sort,100000,ordenado creciente,1,14023051000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,2,30984235000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,3,45903417000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,4,47478332000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,5,47609061000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,6,47004332000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,7,46311204000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,8,46444109000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,9,46034252000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,10,43415260000,704982704,0,0
+Bubble Sort,100000,ordenado creciente,Resumen,4.15207e+010,4.61727e+010,1.02963e+010,14023051000,47609061000
+Bubble Sort,1000,ordenado decreciente,1,15875000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,2,16015000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,3,17770000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,4,15342000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,5,15942000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,6,16406000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,7,16771000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,8,17332000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,9,15689000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,10,20597000,499500,499500,0
+Bubble Sort,1000,ordenado decreciente,Resumen,1.67739e+007,1.62105e+007,1.46145e+006,15342000,20597000
+Bubble Sort,10000,ordenado decreciente,1,1537722000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,2,1437710000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,3,1547202000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,4,1518384000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,5,1448500000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,6,1448224000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,7,1465258000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,8,1761272000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,9,1513207000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,10,1645906000,49995000,49995000,0
+Bubble Sort,10000,ordenado decreciente,Resumen,1.53234e+009,1.5158e+009,9.6787e+007,1437710000,1761272000
+Bubble Sort,100000,ordenado decreciente,1,76766950000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,2,48839967000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,3,42826928000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,4,45231883000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,5,48609427000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,6,42160051000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,7,39999810000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,8,42138014000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,9,40789515000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,10,39371479000,704982704,704982704,0
+Bubble Sort,100000,ordenado decreciente,Resumen,4.66734e+010,4.24935e+010,1.05088e+010,39371479000,76766950000

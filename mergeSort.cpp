@@ -42,7 +42,7 @@ double calcularMediana(vector<long long> v) {
 }
 
 int main() {
-    string algoritmo = "Cocktail Sort";
+    string algoritmo = "Merge Sort";
     long long tiempo = 0;
     int comparaciones = 0;
     int intercambios = 0;
@@ -60,7 +60,7 @@ int main() {
         {listaDecreciente_100000, 100000, "ordenado decreciente"}
     };
 
-    ofstream archivo("datosCocktailSort.csv");
+    ofstream archivo("datosMergeSort.csv");
     if (!archivo) {
         cerr << "Error al abrir el archivo\n";
         return 1;
@@ -86,7 +86,7 @@ int main() {
             }
 
             auto begin = chrono::steady_clock::now();
-            cocktailSort(copia, n, comparaciones, intercambios);
+            mergeSort(copia, 0,n-1,comparaciones,intercambios);
             auto end = chrono::steady_clock::now();
 
             tiempo = chrono::duration_cast<chrono::nanoseconds>(end - begin).count();
@@ -126,6 +126,6 @@ int main() {
     }
 
     archivo.close();
-    cout << "\nTodos los resultados y estadísticas se guardaron en datosCocktailSort.csv\n";
+    cout << "\nTodos los resultados y estadísticas se guardaron en datosMergeSort.csv\n";
     return 0;
 }

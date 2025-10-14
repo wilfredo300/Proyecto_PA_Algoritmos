@@ -5,10 +5,10 @@
 #include <vector>
 #include <algorithm> 
 #include <iomanip>
-#include "listasAleatorias.h"
-#include "listasOrdenadas.h"
-#include "listasDecrecientes.h"
-#include "algoritmos.h"
+#include "algoritmos_y_listas/listasAleatorias.h"
+#include "algoritmos_y_listas/listasOrdenadas.h"
+#include "algoritmos_y_listas/listasDecrecientes.h"
+#include "algoritmos_y_listas/algoritmos.h"
 
 
 using namespace std;

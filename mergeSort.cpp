@@ -60,7 +60,7 @@ int main() {
         {listaDecreciente_100000, 100000, "ordenado decreciente"}
     };
 
-    ofstream archivo("datosMergeSort.csv");
+    ofstream archivo("datos_de_medicion/datosMergeSort.csv");
     if (!archivo) {
         cerr << "Error al abrir el archivo\n";
         return 1;
@@ -126,6 +126,6 @@ int main() {
     }
 
     archivo.close();
-    cout << "\nTodos los resultados y estadísticas se guardaron en datosMergeSort.csv\n";
+    cout << "\nTodos los resultados y estadísticas se guardaron en datos_de_medicion/datosMergeSort.csv\n";
     return 0;
 }

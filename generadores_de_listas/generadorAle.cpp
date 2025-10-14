@@ -9,7 +9,7 @@ int main() {
     // Semilla para que los números sean diferentes cada ejecución
     srand(0);
        // crea/abre el archivo
-        ofstream archivo("listasAleatorias.h"); 
+        ofstream archivo("../algoritmos_y_listas/listasAleatorias.h"); 
 
         if (!archivo) {
             cerr << "Error al abrir el archivo\n";

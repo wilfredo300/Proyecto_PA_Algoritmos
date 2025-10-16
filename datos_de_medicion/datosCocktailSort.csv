@@ -1,0 +1,100 @@
+algoritmo,n,patron,repeticiones,tiempo_ns,comparaciones,intercambios,semilla
+Cocktail Sort,1000,aleatorio,1,3200500,341247,127223,0
+Cocktail Sort,1000,aleatorio,2,3222500,341247,127223,0
+Cocktail Sort,1000,aleatorio,3,3915200,341247,127223,0
+Cocktail Sort,1000,aleatorio,4,3492000,341247,127223,0
+Cocktail Sort,1000,aleatorio,5,4335700,341247,127223,0
+Cocktail Sort,1000,aleatorio,6,3228800,341247,127223,0
+Cocktail Sort,1000,aleatorio,7,3264700,341247,127223,0
+Cocktail Sort,1000,aleatorio,8,3499700,341247,127223,0
+Cocktail Sort,1000,aleatorio,9,5696600,341247,127223,0
+Cocktail Sort,1000,aleatorio,10,3657100,341247,127223,0
+Cocktail Sort,1000,aleatorio,Resumen_de_tiempo:,,Media:,3751280,Mediana:,3495850,Desviacion:,733811,minimo:,3200500,maximo:,5696600
+Cocktail Sort,10000,aleatorio,1,381081700,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,2,379025800,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,3,381917100,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,4,434833300,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,5,355981000,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,6,365830500,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,7,339627600,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,8,337129400,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,9,339043500,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,10,341798500,33751246,12616711,0
+Cocktail Sort,10000,aleatorio,Resumen_de_tiempo:,,Media:,365626840,Mediana:,360905750,Desviacion:,28859840,minimo:,337129400,maximo:,434833300
+Cocktail Sort,100000,aleatorio,1,33687148800,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,2,33677151300,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,3,33570813700,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,4,33566025900,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,5,33591052900,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,6,33774068200,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,7,33562399500,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,8,33613309100,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,9,33498014800,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,10,33479973100,-964777431,1246297815,0
+Cocktail Sort,100000,aleatorio,Resumen_de_tiempo:,,Media:,33601995730,Mediana:,33580933300,Desviacion:,85024492,minimo:,33479973100,maximo:,33774068200
+Cocktail Sort,1000,ordenado creciente,1,2600,999,0,0
+Cocktail Sort,1000,ordenado creciente,2,2500,999,0,0
+Cocktail Sort,1000,ordenado creciente,3,2600,999,0,0
+Cocktail Sort,1000,ordenado creciente,4,3800,999,0,0
+Cocktail Sort,1000,ordenado creciente,5,2600,999,0,0
+Cocktail Sort,1000,ordenado creciente,6,3700,999,0,0
+Cocktail Sort,1000,ordenado creciente,7,3800,999,0,0
+Cocktail Sort,1000,ordenado creciente,8,2500,999,0,0
+Cocktail Sort,1000,ordenado creciente,9,3100,999,0,0
+Cocktail Sort,1000,ordenado creciente,10,2600,999,0,0
+Cocktail Sort,1000,ordenado creciente,Resumen_de_tiempo:,,Media:,2980,Mediana:,2600,Desviacion:,540,minimo:,2500,maximo:,3800
+Cocktail Sort,10000,ordenado creciente,1,33500,9999,0,0
+Cocktail Sort,10000,ordenado creciente,2,56200,9999,0,0
+Cocktail Sort,10000,ordenado creciente,3,52300,9999,0,0
+Cocktail Sort,10000,ordenado creciente,4,51400,9999,0,0
+Cocktail Sort,10000,ordenado creciente,5,51300,9999,0,0
+Cocktail Sort,10000,ordenado creciente,6,51200,9999,0,0
+Cocktail Sort,10000,ordenado creciente,7,51400,9999,0,0
+Cocktail Sort,10000,ordenado creciente,8,51300,9999,0,0
+Cocktail Sort,10000,ordenado creciente,9,51400,9999,0,0
+Cocktail Sort,10000,ordenado creciente,10,51700,9999,0,0
+Cocktail Sort,10000,ordenado creciente,Resumen_de_tiempo:,,Media:,50170,Mediana:,51400,Desviacion:,5738,minimo:,33500,maximo:,56200
+Cocktail Sort,100000,ordenado creciente,1,237700,99999,0,0
+Cocktail Sort,100000,ordenado creciente,2,237800,99999,0,0
+Cocktail Sort,100000,ordenado creciente,3,337100,99999,0,0
+Cocktail Sort,100000,ordenado creciente,4,541800,99999,0,0
+Cocktail Sort,100000,ordenado creciente,5,282200,99999,0,0
+Cocktail Sort,100000,ordenado creciente,6,238000,99999,0,0
+Cocktail Sort,100000,ordenado creciente,7,237900,99999,0,0
+Cocktail Sort,100000,ordenado creciente,8,237900,99999,0,0
+Cocktail Sort,100000,ordenado creciente,9,237700,99999,0,0
+Cocktail Sort,100000,ordenado creciente,10,237800,99999,0,0
+Cocktail Sort,100000,ordenado creciente,Resumen_de_tiempo:,,Media:,282590,Mediana:,237900,Desviacion:,91753,minimo:,237700,maximo:,541800
+Cocktail Sort,1000,ordenado decreciente,1,4651700,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,2,8008300,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,3,4741600,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,4,7720700,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,5,4811600,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,6,5481200,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,7,7106400,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,8,4708000,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,9,5153400,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,10,6571000,499500,250000,0
+Cocktail Sort,1000,ordenado decreciente,Resumen_de_tiempo:,,Media:,5895390,Mediana:,5317300,Desviacion:,1261100,minimo:,4651700,maximo:,8008300
+Cocktail Sort,10000,ordenado decreciente,1,492852300,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,2,481630000,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,3,494566100,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,4,491725800,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,5,497140400,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,6,494683900,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,7,489035200,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,8,496893700,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,9,494609000,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,10,498569500,49995000,25000000,0
+Cocktail Sort,10000,ordenado decreciente,Resumen_de_tiempo:,,Media:,493170590,Mediana:,494587550,Desviacion:,4664238,minimo:,481630000,maximo:,498569500
+Cocktail Sort,100000,ordenado decreciente,1,48029934700,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,2,47967423700,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,3,47917093000,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,4,48029410000,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,5,48206752500,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,6,48489137000,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,7,48096108800,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,8,48010708700,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,9,63567329500,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,10,63754444900,704982704,-1794967296,0
+Cocktail Sort,100000,ordenado decreciente,Resumen_de_tiempo:,,Media:,51206834280,Mediana:,48063021750,Desviacion:,6229024561,minimo:,47917093000,maximo:,63754444900

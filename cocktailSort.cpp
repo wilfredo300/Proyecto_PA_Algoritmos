@@ -44,8 +44,8 @@ double calcularMediana(vector<long long> v) {
 int main() {
     string algoritmo = "Cocktail Sort";
     long long tiempo = 0;
-    int comparaciones = 0;
-    int intercambios = 0;
+    long long comparaciones = 0;
+    long long intercambios = 0;
     int semilla = 0;
 
     ListaInfo listas[9] = {

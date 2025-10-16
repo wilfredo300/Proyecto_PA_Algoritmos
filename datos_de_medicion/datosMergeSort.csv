@@ -1,0 +1,100 @@
+algoritmo,n,patron,repeticiones,tiempo_ns,comparaciones,intercambios,semilla
+Merge Sort,1000,aleatorio,1,0,8720,19952,0
+Merge Sort,1000,aleatorio,2,0,8720,19952,0
+Merge Sort,1000,aleatorio,3,0,8720,19952,0
+Merge Sort,1000,aleatorio,4,0,8720,19952,0
+Merge Sort,1000,aleatorio,5,0,8720,19952,0
+Merge Sort,1000,aleatorio,6,0,8720,19952,0
+Merge Sort,1000,aleatorio,7,207000,8720,19952,0
+Merge Sort,1000,aleatorio,8,0,8720,19952,0
+Merge Sort,1000,aleatorio,9,1079000,8720,19952,0
+Merge Sort,1000,aleatorio,10,0,8720,19952,0
+Merge Sort,1000,aleatorio,Resumen_de_tiempo:,,Media:,128600,Mediana:,0,Desviacion:,322755,minimo:,0,maximo:,1079000
+Merge Sort,10000,aleatorio,1,2281000,120397,267232,0
+Merge Sort,10000,aleatorio,2,0,120397,267232,0
+Merge Sort,10000,aleatorio,3,0,120397,267232,0
+Merge Sort,10000,aleatorio,4,0,120397,267232,0
+Merge Sort,10000,aleatorio,5,16816000,120397,267232,0
+Merge Sort,10000,aleatorio,6,0,120397,267232,0
+Merge Sort,10000,aleatorio,7,0,120397,267232,0
+Merge Sort,10000,aleatorio,8,0,120397,267232,0
+Merge Sort,10000,aleatorio,9,16565000,120397,267232,0
+Merge Sort,10000,aleatorio,10,0,120397,267232,0
+Merge Sort,10000,aleatorio,Resumen_de_tiempo:,,Media:,3566200,Mediana:,0,Desviacion:,6596986,minimo:,0,maximo:,16816000
+Merge Sort,100000,aleatorio,1,49356000,1535725,3337856,0
+Merge Sort,100000,aleatorio,2,49879000,1535725,3337856,0
+Merge Sort,100000,aleatorio,3,50485000,1535725,3337856,0
+Merge Sort,100000,aleatorio,4,49488000,1535725,3337856,0
+Merge Sort,100000,aleatorio,5,50359000,1535725,3337856,0
+Merge Sort,100000,aleatorio,6,33367000,1535725,3337856,0
+Merge Sort,100000,aleatorio,7,49868000,1535725,3337856,0
+Merge Sort,100000,aleatorio,8,33447000,1535725,3337856,0
+Merge Sort,100000,aleatorio,9,50080000,1535725,3337856,0
+Merge Sort,100000,aleatorio,10,50495000,1535725,3337856,0
+Merge Sort,100000,aleatorio,Resumen_de_tiempo:,,Media:,46682400,Mediana:,49873500,Desviacion:,6647693,minimo:,33367000,maximo:,50495000
+Merge Sort,1000,ordenado creciente,1,0,5044,19952,0
+Merge Sort,1000,ordenado creciente,2,0,5044,19952,0
+Merge Sort,1000,ordenado creciente,3,0,5044,19952,0
+Merge Sort,1000,ordenado creciente,4,0,5044,19952,0
+Merge Sort,1000,ordenado creciente,5,160000,5044,19952,0
+Merge Sort,1000,ordenado creciente,6,0,5044,19952,0
+Merge Sort,1000,ordenado creciente,7,498000,5044,19952,0
+Merge Sort,1000,ordenado creciente,8,0,5044,19952,0
+Merge Sort,1000,ordenado creciente,9,0,5044,19952,0
+Merge Sort,1000,ordenado creciente,10,0,5044,19952,0
+Merge Sort,1000,ordenado creciente,Resumen_de_tiempo:,,Media:,65800,Mediana:,0,Desviacion:,151759,minimo:,0,maximo:,498000
+Merge Sort,10000,ordenado creciente,1,0,69008,267232,0
+Merge Sort,10000,ordenado creciente,2,8714000,69008,267232,0
+Merge Sort,10000,ordenado creciente,3,0,69008,267232,0
+Merge Sort,10000,ordenado creciente,4,0,69008,267232,0
+Merge Sort,10000,ordenado creciente,5,0,69008,267232,0
+Merge Sort,10000,ordenado creciente,6,0,69008,267232,0
+Merge Sort,10000,ordenado creciente,7,16476000,69008,267232,0
+Merge Sort,10000,ordenado creciente,8,0,69008,267232,0
+Merge Sort,10000,ordenado creciente,9,0,69008,267232,0
+Merge Sort,10000,ordenado creciente,10,1142000,69008,267232,0
+Merge Sort,10000,ordenado creciente,Resumen_de_tiempo:,,Media:,2633200,Mediana:,0,Desviacion:,5285443,minimo:,0,maximo:,16476000
+Merge Sort,100000,ordenado creciente,1,32918000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,2,50353000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,3,50061000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,4,33961000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,5,49914000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,6,50021000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,7,32896000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,8,33290000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,9,33808000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,10,48854000,853904,3337856,0
+Merge Sort,100000,ordenado creciente,Resumen_de_tiempo:,,Media:,41607600,Mediana:,41407500,Desviacion:,8246949,minimo:,32896000,maximo:,50353000
+Merge Sort,1000,ordenado decreciente,1,0,4932,19952,0
+Merge Sort,1000,ordenado decreciente,2,0,4932,19952,0
+Merge Sort,1000,ordenado decreciente,3,0,4932,19952,0
+Merge Sort,1000,ordenado decreciente,4,14067000,4932,19952,0
+Merge Sort,1000,ordenado decreciente,5,559000,4932,19952,0
+Merge Sort,1000,ordenado decreciente,6,115000,4932,19952,0
+Merge Sort,1000,ordenado decreciente,7,0,4932,19952,0
+Merge Sort,1000,ordenado decreciente,8,0,4932,19952,0
+Merge Sort,1000,ordenado decreciente,9,0,4932,19952,0
+Merge Sort,1000,ordenado decreciente,10,0,4932,19952,0
+Merge Sort,1000,ordenado decreciente,Resumen_de_tiempo:,,Media:,1474100,Mediana:,0,Desviacion:,4200910,minimo:,0,maximo:,14067000
+Merge Sort,10000,ordenado decreciente,1,0,64608,267232,0
+Merge Sort,10000,ordenado decreciente,2,13396000,64608,267232,0
+Merge Sort,10000,ordenado decreciente,3,1769000,64608,267232,0
+Merge Sort,10000,ordenado decreciente,4,0,64608,267232,0
+Merge Sort,10000,ordenado decreciente,5,0,64608,267232,0
+Merge Sort,10000,ordenado decreciente,6,0,64608,267232,0
+Merge Sort,10000,ordenado decreciente,7,14405000,64608,267232,0
+Merge Sort,10000,ordenado decreciente,8,608000,64608,267232,0
+Merge Sort,10000,ordenado decreciente,9,0,64608,267232,0
+Merge Sort,10000,ordenado decreciente,10,0,64608,267232,0
+Merge Sort,10000,ordenado decreciente,Resumen_de_tiempo:,,Media:,3017800,Mediana:,0,Desviacion:,5471606,minimo:,0,maximo:,14405000
+Merge Sort,100000,ordenado decreciente,1,51961000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,2,59520000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,3,26364000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,4,38829000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,5,46150000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,6,36090000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,7,23236000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,8,39630000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,9,34245000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,10,38373000,815024,3337856,0
+Merge Sort,100000,ordenado decreciente,Resumen_de_tiempo:,,Media:,39439800,Mediana:,38601000,Desviacion:,10384198,minimo:,23236000,maximo:,59520000
